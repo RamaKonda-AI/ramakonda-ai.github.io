@@ -1,1 +1,17 @@
-{"OLLAMA_API_BASE": "https://shriaishu-glowup-ai-ollama.hf.space", MAINTAINANCE_MODE: false, VIDEO_EDIT_MODE: true, AI_CHAT_MODE: true}
+{
+    "OLLAMA_API_BASE": "https://shriaishu-glowup-ai-ollama.hf.space",
+    "MAINTAINANCE_MODE": false,
+    "VIDEO_EDIT_MODE": true,
+    "AI_CHAT_MODE": true,
+    "ADS_CONFIG": {
+      "adMob": {
+        "androidAppId": "ca-app-pub-6973625149477761~8861916463",
+        "iosAppId": "ca-app-pub-6973625149477761~8861916463",
+        "banner": "ca-app-pub-6973625149477761/2111022890",           
+        "interstitial": "ca-app-pub-6973625149477761/8484859557",     
+        "rewarded": "ca-app-pub-6973625149477761/5200220669",         
+        "appOpen": "ca-app-pub-6973625149477761/8750235823",         
+        "native": "ca-app-pub-6973625149477761/1839560155"
+      }
+    }
+}
